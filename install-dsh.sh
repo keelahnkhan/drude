@@ -8,7 +8,7 @@ NC='\033[0m'
 
 # Drude repo
 DRUDE_REPO='https://github.com/devinci-code/drude.git'
-DRUDE_REPO_RAW='https://raw.githubusercontent.com/devinci-code/drude/master'
+DRUDE_REPO_RAW='https://raw.githubusercontent.com/devinci-code/drude/1.0'
 
 # Determine if we have sudo
 SUDO='sudo'
