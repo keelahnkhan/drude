@@ -17,6 +17,7 @@ Mac and Windows users will need a tiny linux VM layer - [Boot2docker Vagrant Box
     ```
     curl -s https://raw.githubusercontent.com/blinkreaction/drude/master/install-dsh.sh | bash
     ```
+3. There may be a known issue on OSX if you get an error after booting the VM. See https://gist.github.com/sirkkalap/40261ed82386ad8a6409
 
 ### Linux
 1. [Docker](https://docs.docker.com/compose/install/#install-docker)
