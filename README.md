@@ -15,7 +15,7 @@ Mac and Windows users will need a tiny linux VM layer - [Boot2docker Vagrant Box
 2. Install [dsh](#dsh) tool (Drude Shell) wrapper
 
     ```
-    curl -s https://raw.githubusercontent.com/blinkreaction/drude/master/install-dsh.sh | bash
+    sudo wget https://raw.githubusercontent.com/blinkreaction/drude/49cf9e94623e93fbab1cdc7c6d1c3ab24f7f3b8a/bin/dsh -O /usr/local/bin/dsh
     ```
 3. There may be a known issue on OSX if you get an error after booting the VM. See https://gist.github.com/sirkkalap/40261ed82386ad8a6409
 
